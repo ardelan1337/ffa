@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+	--font: Montserrat;
+	--dark: #28245f;
+	--main: #6257ff;
+	--white: rgb(255, 255, 255);
+	--gradient: linear-gradient(90deg, #201e31 0%, #28245f 67%, #3d3881 100%);
+	--stats-gradient: linear-gradient(270deg, rgba(0, 0, 0, 0) 25%, rgba(98, 87, 255, .7) 100%);
+	--deathscreen-gradient: linear-gradient(142deg, rgba(35, 31, 102, 1) 0%, rgba(35, 31, 102, 0.6) 50%, rgba(98, 87, 255, 1) 100%);
+}
