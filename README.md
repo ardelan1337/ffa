@@ -4,7 +4,7 @@ A Free-For-All Script, for FiveM, based on ESX
 
 Old shitty code, that should work
 
-### Preview ###
+# Preview #
 
 ## HUD ##
 
@@ -22,10 +22,10 @@ Old shitty code, that should work
 
 ![image](https://user-images.githubusercontent.com/101870550/219577757-2df57037-d1de-4c24-9074-614f62bbad2b.png)
 
-# Zone clicked #
+### Zone clicked ###
 
 ![image](https://user-images.githubusercontent.com/101870550/219577875-23ee8c96-86d7-4c67-9f68-bc2e07b7f832.png)
 
-# Close button hover #
+### Close button hover ###
 
 ![image](https://user-images.githubusercontent.com/101870550/219577866-7cc49596-9854-4219-85cb-b9b282139f8b.png)
