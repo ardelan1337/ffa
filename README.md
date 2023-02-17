@@ -12,7 +12,7 @@ Old code that should work
 
 ## Deathscreen ##
 
-![image](https://user-images.githubusercontent.com/101870550/219577640-12d59067-ed30-4856-8448-fd1b579f2137.png)
+![image](https://user-images.githubusercontent.com/101870550/219758273-db257c78-2ebf-4766-89e2-9cbc95678d6a.png)
 
 ## Leaderboard ##
 
