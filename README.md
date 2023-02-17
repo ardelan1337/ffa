@@ -1,8 +1,8 @@
 # ffa
 
-A Free-For-All Script, for FiveM, based on ESX
+A FiveM Free-For-All Script, based on the [ESX-Framework](https://github.com/esx-framework/esx-legacy)
 
-Old shitty code, that should work
+Old code that should work
 
 # Preview #
 
