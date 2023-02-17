@@ -545,13 +545,3 @@ ESX.RegisterServerCallback('ardi:get:all:stats', function(src, cb)
 		Wait(50)
 	end)
 end)
-
-print([[
-^1==============================================================
-															^1||^0
-					^1Ultra^0-^1Scripts^0                           ^1||^0
-			made with ^1<3^0 by ardelan^1#0808                    ^1||^0
-	for support refer to: discord.gg/^1ultra^0-^1scripts^0          ^1||^0
-															^1||^0
-^1==============================================================
-]])
